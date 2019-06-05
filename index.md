@@ -14,9 +14,11 @@ I aim at find out the Imagination Ability of Deep Neural Network in vision area.
 
 You can find my publication and source code on [GitHub](https://github.com/imlixinyang).
 
-Email me at [imlixinyang@gmail.com](imlixinyang@gmail.com) any time!
+Email me at [imlixinyang@gmail.com](mailto:imlixinyang@gmail.com) any time!
 
 ## Recent News
+
+<img class="profile-picture" src="https://github.com/imlixinyang/AGUIT/blob/master/Figures/1.gif">
 
 * [2019.05.24] Repo for AGUIT has been created: [[Repo of AGUIT]](https://github.com/imlixinyang/aguit)
 
@@ -27,7 +29,7 @@ Email me at [imlixinyang@gmail.com](imlixinyang@gmail.com) any time!
 ### Preprint:
 
 * Attributed Guided Unpaird Image-to-Image Translation with Semi-supervised Learning <br/>
-  *by Xinyang Li, Jie Hu, Shengchuan Zhang, Xiaopeng Hong, Qixiang Ye, Chenglin Wu, Rongrong Ji*<br/>
+  -by Xinyang Li, Jie Hu, Shengchuan Zhang, Xiaopeng Hong, Qixiang Ye, Chenglin Wu, Rongrong Ji-<br/>
   [[Code]](https://github.com/imlixinyang/aguit) [[Paper]](https://arxiv.org/abs/1904.12428)
 
 ## Intership
@@ -37,10 +39,9 @@ Email me at [imlixinyang@gmail.com](imlixinyang@gmail.com) any time!
 ## Award
 
 * [2018.2] COMAP's Mathematical Contest in Modeling (MCM)<br/>
-  *Meritorious Winner (7%)*<br/>
-  Promblem Analysis, Abstracting; Solution Modeling and Programing
+  -Meritorious Winner (7%)-
 
 
 * [2017.8] CUMCM (Contemporary Undergraduate Mathematical Contest in Modeling)<br/>
-  *1st Prize, National*<br/>
+  -1st Prize, National-<br/>
   Promblem Analysis, Modeling and Programing; Solution Modeling and Programing; Writing in Math
