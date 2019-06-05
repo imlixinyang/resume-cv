@@ -4,42 +4,43 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="sherlock.jpg">
+<!-- <img class="profile-picture" src="sherlock.jpg"> -->
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
+Hi! I am currently an undergraduate from Xiamen University waiting for the begining of my master's degree in [MAC Lab](https://mac.xmu.edu.cn).
 
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+I'm really interested in Computer Vision, including Image Generation, Text-to-Image Tranlsation and Image-to-Image Translation.
 
-## Research Interest
+I aim at find out the Imagination Ability of Deep Neural Network in vision area. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+You can find my publication and source code on [GitHub](https://github.com/imlixinyang).
+
+Email me at [imlixinyang@gmail.com](imlixinyang@gmail.com) any time!
+
+## Recent News
+
+* [2019.05.24] Repo for AGUIT has been created: [Repo of AGUIT](https://github.com/imlixinyang/aguit)
+
+* [2019.04.29] Preprint submission: [Attributed Guided Unpaird Image-to-Image Translation with Semi-supervised Learning](https://arxiv.org/abs/1904.12428)
 
 ## Publications
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+### Preprint:
 
-## Typography
+* Attributed Guided Unpaird Image-to-Image Translation with Semi-supervised Learning
+*by Xinyang Li, Jie Hu, Shengchuan Zhang, Xiaopeng Hong, Qixiang Ye, Chenglin Wu, Rongrong Ji*
+[Code](https://github.com/imlixinyang/aguit) [Paper](https://arxiv.org/abs/1904.12428)
 
-This is a [link](http://google.com). Something *italics* and something **bold**.
+## Intership
 
-Here is a table
+* [2018.10 ~ 2019.6] Research intern of Computer Vision [Social Bird AI lab](http://www.socialarks.com/) 
 
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
+## Award
 
-Here is a horizontal rule
+* [2018.2] COMAP's Mathematical Contest in Modeling (MCM)
+*Meritorious Winner (7%)*
+Promblem Analysis, Abstracting; Solution Modeling and Programing
 
----
 
-Here is a blockquote
-
-> To a great mind, nothing is little
-
-## References
-
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
+* [2017.8] CUMCM (Contemporary Undergraduate Mathematical Contest in Modeling)
+*1st Prize, National*
+Promblem Analysis, Modeling and Programing; Solution Modeling and Programing; Writing in Math

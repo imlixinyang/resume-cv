@@ -1,4 +1,4 @@
-title: Xinyang Li, 李新阳
+title: "Xinyang Li, 李新阳"
 url: "https://imlixinyang.github.io"
 baseurl: "/resume-cv"
 
@@ -13,9 +13,9 @@ sass:
     sass_dir: _sass
 
 nav:
- - name: "About"
-   link: "/resume-cv/"
  - name: "Resume"
-   link: "resume.pdf"
- - name: "Contact"
-   link: "contact"
+   link: "/resume-cv/"
+#  - name: "Resume"
+#    link: "resume.pdf"
+#  - name: "Contact"
+#    link: "contact"
