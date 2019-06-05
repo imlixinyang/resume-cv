@@ -18,7 +18,7 @@ Email me at [imlixinyang@gmail.com](mailto:imlixinyang@gmail.com) any time you w
 
 ## Recent News
 
-<img class="profile-picture" src="fig/1.gif">
+<img class="profile-picture" src="fig/1.gif" herf="https://github.com/imlixinyang/aguit">
 
 * [2019.05.24] Repo for AGUIT has been created: [[Repo of AGUIT]](https://github.com/imlixinyang/aguit).
 
@@ -32,11 +32,11 @@ Email me at [imlixinyang@gmail.com](mailto:imlixinyang@gmail.com) any time you w
   by Xinyang Li, Jie Hu, Shengchuan Zhang, Xiaopeng Hong, Qixiang Ye, Chenglin Wu, Rongrong Ji<br/>
   [[Code]](https://github.com/imlixinyang/aguit) [[Paper]](https://arxiv.org/abs/1904.12428)
 
-## Intership
+## Interships
 
-* [2018.10 ~ 2019.6] Research intern of Computer Vision [Social Bird AI lab](http://www.socialarks.com/).
+* [2018.10 ~ 2019.6] Research intern of Computer Vision in [Social Bird AI lab](http://www.socialarks.com/).
 
-## Award
+## Awards
 
 * [2018.2] COMAP's Mathematical Contest in Modeling (MCM)<br/>
   Meritorious Winner (7%)
