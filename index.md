@@ -26,8 +26,8 @@ Email me at [imlixinyang@gmail.com](imlixinyang@gmail.com) any time!
 
 ### Preprint:
 
-* Attributed Guided Unpaird Image-to-Image Translation with Semi-supervised Learning
-  *by Xinyang Li, Jie Hu, Shengchuan Zhang, Xiaopeng Hong, Qixiang Ye, Chenglin Wu, Rongrong Ji*
+* Attributed Guided Unpaird Image-to-Image Translation with Semi-supervised Learning <br/>
+  *by Xinyang Li, Jie Hu, Shengchuan Zhang, Xiaopeng Hong, Qixiang Ye, Chenglin Wu, Rongrong Ji*<br/>
   [[Code]](https://github.com/imlixinyang/aguit) [[Paper]](https://arxiv.org/abs/1904.12428)
 
 ## Intership
@@ -36,11 +36,11 @@ Email me at [imlixinyang@gmail.com](imlixinyang@gmail.com) any time!
 
 ## Award
 
-* [2018.2] COMAP's Mathematical Contest in Modeling (MCM)
-  *Meritorious Winner (7%)*
+* [2018.2] COMAP's Mathematical Contest in Modeling (MCM)<br/>
+  *Meritorious Winner (7%)*<br/>
   Promblem Analysis, Abstracting; Solution Modeling and Programing
 
 
-* [2017.8] CUMCM (Contemporary Undergraduate Mathematical Contest in Modeling)
-  *1st Prize, National*
+* [2017.8] CUMCM (Contemporary Undergraduate Mathematical Contest in Modeling)<br/>
+  *1st Prize, National*<br/>
   Promblem Analysis, Modeling and Programing; Solution Modeling and Programing; Writing in Math
