@@ -18,7 +18,7 @@ Email me at [imlixinyang@gmail.com](mailto:imlixinyang@gmail.com) any time you w
 
 ## Recent News
 
-<img class="profile-picture" src="figs/1.gif">
+<img class="profile-picture" src="fig/1.gif">
 
 * [2019.05.24] Repo for AGUIT has been created: [[Repo of AGUIT]](https://github.com/imlixinyang/aguit).
 
