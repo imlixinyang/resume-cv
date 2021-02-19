@@ -18,6 +18,8 @@ Email me at [imlixinyang@gmail.com](mailto:imlixinyang@gmail.com) any time you w
 
 ## Recent News
 
+* [2020.01.13] Code for AGUIT has been released: [[Repo of AGUIT]](https://github.com/imlixinyang/aguit).
+
 <img class="profile-picture" src="fig/1.gif" herf="https://github.com/imlixinyang/aguit">
 
 * [2019.05.24] Repo for AGUIT has been created: [[Repo of AGUIT]](https://github.com/imlixinyang/aguit).
@@ -34,7 +36,9 @@ Email me at [imlixinyang@gmail.com](mailto:imlixinyang@gmail.com) any time you w
 
 ## Interships
 
-* [2018.10 ~ 2019.6] Research intern of Computer Vision in [Social Bird AI lab](http://www.socialarks.com/).
+* [2020.12 ~ ] Research intern of Computer Vision in Bytedance AI Lab.
+
+* [2018.10 ~ 2019.6] Research intern of Computer Vision in [Social Bird AI Lab](http://www.socialarks.com/).
 
 ## Awards
 
