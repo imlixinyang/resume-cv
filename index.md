@@ -19,18 +19,12 @@ Email me at [imlixinyang@gmail.com](mailto:imlixinyang@gmail.com) any time you w
 ## Recent News
 
 * [2020.03.01] Paper [[Image-to-image Translation via Hierarchical Style Disentanglement]]() is accepted to CVPR 2021, code will be released soon.
-
-</br>
-<img class="profile-picture" src="fig/fig.png" herf="https://github.com/imlixinyang/HiSD">
  
 * [2020.01.13] Code for AGUIT has been released!
 
 * [2019.05.24] Repo for AGUIT has been created: [[Repo of AGUIT]](https://github.com/imlixinyang/aguit).
 
 * [2019.04.29] Preprint submission: [[Attributed Guided Unpaird Image-to-Image Translation with Semi-supervised Learning]](https://arxiv.org/abs/1904.12428).
- 
-</br>
-<img class="profile-picture" src="fig/1.gif" herf="https://github.com/imlixinyang/AGUIT">
  
 ## Publications
 
