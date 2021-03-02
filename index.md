@@ -6,7 +6,7 @@ layout: default
 
 <!-- <img class="profile-picture" src="sherlock.jpg"> -->
 
-Hi! I am currently an undergraduate from Xiamen University waiting for the begining of my master's degree in [MAC Lab](https://mac.xmu.edu.cn).
+Hi! I am currently year 2 of my master's degree in [MAC Lab](https://mac.xmu.edu.cn).
 
 I'm really interested in Computer Vision, including Image Generation, Text-to-Image Tranlsation Image-to-Image Translation and recently, Neural Radience Field.
 
