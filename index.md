@@ -18,7 +18,9 @@ Email me at [imlixinyang@gmail.com](mailto:imlixinyang@gmail.com) any time you w
 
 ## Recent News
 
-* [2020.03.01] Paper [[Image-to-image Translation via Hierarchical Style Disentanglement]]() is accepted to CVPR 2021, code will be released soon.
+* [2020.03.01] Code of HiSD has been released at [[Repo of HiSD]](https://github.com/imlixinyang/hisd).
+
+* [2020.03.01] Paper [[Image-to-image Translation via Hierarchical Style Disentanglement]](https://arxiv.org/abs/2103.01456) is accepted to CVPR 2021, code will be released soon.
  
 * [2020.01.13] Code for AGUIT has been released!
 
